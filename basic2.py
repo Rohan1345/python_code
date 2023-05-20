@@ -1,0 +1,8 @@
+a = input("enter a value: ")
+b = input("enter b value: ")
+a = int(a)
+b = int(b)
+print("addition :",a+b)
+print("multiplication:",a*b)
+print("division:",a/b)
+print("remainder:",a%b)

@@ -1,0 +1,6 @@
+a=input("enter a value :")
+b=input("enter b vlaue :")
+sum=int(a)+int(b)
+add=float(a)+float(b)
+print("sum in int:",sum)
+print("sum in float:",add)
